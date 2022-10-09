@@ -4,11 +4,11 @@ author: Kees
 description: Blog van de vakantie van augustus en september 2022
 
 # URL to GitHub repo
-baseurl: "/template-vakantie-blog" 
+baseurl: "/2022-08-frankrijk" 
 url: "https://prudento-nl.github.io" 
 
 # URL to images folder at GitHub repo LET OP het format van de link met de PUNT!
-images: "https://prudento-nl.github.io/template-vakantie-blog/images"
+images: "https://prudento-nl.github.io/2022-06-frankrijk/images"
 
 # Build settings
 markdown: kramdown
